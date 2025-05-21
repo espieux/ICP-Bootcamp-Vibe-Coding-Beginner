@@ -1,4 +1,4 @@
-site_name: Rust Bootcamp with Vibe Codingg
+site_name: Rust Bootcamp with Vibe Coding
 site_description: Learn Rust programming with a focus on practical applications and Internet Computer development
 site_url: https://espieux.github.io/ICP-Bootcamp-Vibe-Coding-Beginner
 
@@ -10,6 +10,13 @@ nav:
   - "Core Modules":
       - "Module 1: Rust Fundamentals":
           - Overview: "module1-fundamentals/README.md"
+          - Guides:
+              - "Index": "module1-fundamentals/guides/index.md"
+              - "Getting Started": "module1-fundamentals/guides/getting_started.md"
+              - "Variables": "module1-fundamentals/guides/variables.md"
+              - "Data Types": "module1-fundamentals/guides/data_types.md"
+              - "Functions": "module1-fundamentals/guides/functions.md"
+              - "Control Flow": "module1-fundamentals/guides/control_flow.md"
           - Exercises:
               - "Hello Rust": "module1-fundamentals/exercises/01_hello_rust.md"
               - "Variable Basics": "module1-fundamentals/exercises/02_variable_basics.md"
