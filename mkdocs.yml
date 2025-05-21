@@ -23,6 +23,11 @@ nav:
               - "Control Flow Challenge": "module1-fundamentals/exercises/04_control_flow_challenge.md"
       - "Module 2: Memory Management":
           - Overview: "module2-memory-management/README.md"
+          - Guides:
+              - "Memory Concepts": "module2-memory-management/guides/memory_concepts.md"
+              - "Ownership": "module2-memory-management/guides/ownership.md"
+              - "Borrowing": "module2-memory-management/guides/borrowing.md"
+              - "Slices": "module2-memory-management/guides/slices.md"
           - Exercises:
               - "Ownership Practice": "module2-memory-management/exercises/01_ownership_practice.md"
               - "Borrowing Challenge": "module2-memory-management/exercises/02_borrowing_challenge.md"
