@@ -35,6 +35,10 @@ nav:
               - "Memory Management Debugging": "module2-memory-management/exercises/04_memory_management_debugging.md"
       - "Module 3: Data Types":
           - Overview: "module3-data-types/README.md"
+          - Guides:
+              - "Structs": "module3-data-types/guides/structs.md"
+              - "Enums": "module3-data-types/guides/enums.md"
+              - "Pattern Matching": "module3-data-types/guides/pattern_matching.md"
           - Exercises:
               - "Library System": "module3-data-types/exercises/01_library_system.md"
               - "Error Handling": "module3-data-types/exercises/02_error_handling.md"
